@@ -1,2 +1,2 @@
 # RestaurantApp---XML
-Restaurant App sign up scrren
+Restaurant App sign up screen xml
